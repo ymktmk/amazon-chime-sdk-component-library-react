@@ -24,8 +24,7 @@ const staticStyles = `
   position: absolute;
   bottom: 1rem;
   right: 1rem;
-  width: 20vw;
-  max-height: 30vh;
+  width: 30vw;
   height: auto;
 
   video {
